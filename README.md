@@ -24,6 +24,6 @@ I specialize in building scalable and responsive web applications using modern t
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/smit1607/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/smit1607/](https://www.linkedin.com/in/smitprajapati1607/)  
 - 💻 [GitHub](https://github.com/smit1607)  
 - 📧 Email: smitprajapati1607@gmail.com  
