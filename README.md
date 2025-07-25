@@ -1,14 +1,14 @@
 <h1 align="center">👋 Hi, I'm Smit Prajapati</h1>
 
 <p align="center">
-💻 Full Stack Developer | 👨‍🎓 Computer Science Graduate | 🚀 Lifelong Learner  
+💻 Full Stack Developer | 👨‍🎓 IT Engineering student | 🚀 Lifelong Learner  
 </p>
 
 ---
 
 ## 🧑‍💼 About Me
 
-🎓 I’m a recent Computer Science graduate and currently working as a Full Stack Developer Intern.  
+🎓 I’m a recent IT Engineering graduate with hands-on experience as a Full Stack Developer Intern, actively exploring new opportunities to build impactful web applications. 
 🔧 I’ve built real-world projects using the MERN Stack and love solving complex coding problems.  
 ⚙️ Skilled in designing responsive UIs, integrating scalable APIs, and writing clean backend logic.  
 📚 Always exploring new technologies, especially in web development and AI-driven automation.  
