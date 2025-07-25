@@ -74,9 +74,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=smit1607&theme=radical" width="48%" />
 </p>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
-
-
 ---
 
 ⭐️ Thanks for visiting my profile!  
