@@ -12,6 +12,7 @@
 🤖 Skilled in building **AI-driven computer vision systems, predictive models, and NLP applications**.  
 💻 Experienced in developing **scalable web applications** using the **MERN Stack** and deploying APIs on **AWS & Docker**.  
 ⚙️ Strong foundation in **data preprocessing, model training, REST APIs, and secure authentication**.  
+📊 Proficient in **data visualization & analytics** using **Tableau, Power BI, Matplotlib, and Seaborn**.  
 📚 Always exploring cutting-edge tech in **AI, cloud platforms, and automation**.  
 🤝 Enjoy working in agile teams and continuously improving code quality & system performance.  
 😄 Fun Fact: I love blending ML with Full Stack apps to create smart, real-world solutions!  
@@ -31,6 +32,17 @@
 
 ---
 
+### 📊 Data Engineering & Visualization
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4c8cbf?style=for-the-badge&logo=python&logoColor=white)
+![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-323330?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+---
+
 ### 📦 Frameworks & Libraries
 ![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -42,6 +54,7 @@
 ---
 
 ### 🗄️ Databases
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -54,6 +67,13 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-FF5722?style=for-the-badge&logo=agile&logoColor=white)
+
+---
+
+### 🔐 Security & Compliance
+- JWT Authentication  
+- Role-Based Access Control (RBAC)  
+- Data Encryption  
 
 ---
 
