@@ -1,72 +1,118 @@
-<h1 align="center">👋 Hi, I'm Smit Prajapati</h1>
+<h1 align="center">👋 Hi, I'm Smit Prajapati</h1> 
 
-<p align="center">
-💻 Full Stack & Backend Developer | 🎓 IT Engineering Graduate | 🚀 Lifelong Learner  
-</p>
+<p align="center"> 
+💻 Machine Learning & Full Stack Developer | 🎓 IT Engineering Graduate | 🚀 Lifelong Learner  
+</p> 
 
----
+--- 
 
-## 🧑‍💼 About Me  
+## 🧑‍💼 About Me 
 
-🎓 Bachelor of Engineering in Information Technology with **3+ years of professional experience** in software engineering and full stack development.  
-💻 Skilled in building **scalable web applications** using **JavaScript, TypeScript, Node.js, Next.js, React.js, Express.js, and Tailwind**.  
-🗄️ Strong expertise in databases including **MongoDB, PostgreSQL, MySQL, Redis, and Elasticsearch**, with proven success in optimizing query performance.  
-⚙️ Experienced in designing and deploying **RESTful & GraphQL APIs**, implementing **Dockerized microservices**, and leveraging **CI/CD pipelines** for smooth delivery.  
-🚀 Hands-on with **serverless computing (Hono)** and modern deployment platforms like **Vercel and Netlify**.  
-📚 Passionate about solving complex problems, reducing system inefficiencies, and delivering **high-performance cloud-native solutions**.  
-🤝 Thrive in agile, collaborative environments and enjoy mentoring, learning, and sharing knowledge.  
-😄 Fun Fact: I love optimizing backend performance while crafting seamless frontend experiences!  
+🎓 Recent IT Engineering graduate with hands-on experience in **Machine Learning** and **Full Stack Development** through impactful internships and projects.  
+🤖 Skilled in building **AI-driven computer vision systems, predictive models, and NLP applications**.  
+💻 Experienced in developing **scalable web applications** using the **MERN Stack** and deploying APIs on **AWS & Docker**.  
+⚙️ Strong foundation in **data preprocessing, model training, REST APIs, and secure authentication**.  
+📊 Proficient in **data visualization & analytics** using **Tableau, Power BI, Matplotlib, and Seaborn**.  
+📚 Always exploring cutting-edge tech in **AI, cloud platforms, and automation**.  
+🤝 Enjoy working in agile teams and continuously improving code quality & system performance.  
+😄 Fun Fact: I love blending ML with Full Stack apps to create smart, real-world solutions!  
 
----
+--- 
 
-## 🚀 Tech Stack  
+## 🚀 Tech Stack 
 
-### 💻 Programming & Frameworks  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+### 🧠 Machine Learning & AI 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white) 
 
----
+--- 
 
-### 🗄️ Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### 📊 Data Engineering & Visualization 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white) 
+![Seaborn](https://img.shields.io/badge/Seaborn-4c8cbf?style=for-the-badge&logo=python&logoColor=white) 
+![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-323330?style=for-the-badge&logo=apache-airflow&logoColor=white) 
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) 
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) 
 
----
+--- 
 
-### ⚙️ Tools & Platforms  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-FF5733?style=for-the-badge&logo=serverless&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 📦 Frameworks & Libraries 
+![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) 
 
----
+--- 
 
-## 💼 Experience  
+### 🗄️ Databases 
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) 
 
-- Built and optimized **microservices** using Node.js, Express.js, and Redis, improving API response efficiency by 40%.  
-- Developed **scalable authentication systems** with Next.js, Prisma, and PostgreSQL, securely handling 10K+ user sessions.  
-- Integrated **Redis caching & Elasticsearch**, reducing query load times by 60%.  
-- Designed and deployed **RESTful & GraphQL APIs**, ensuring 99.9% uptime.  
-- Migrated monoliths into **Dockerized microservices**, improving scalability and maintainability.  
-- Built reusable **React.js + Tailwind components**, ensuring design consistency across modules.  
-- Automated workflows with **Python + SQL**, reducing manual efforts by 70%.  
-- Enhanced **CI/CD pipelines** for faster and reliable deployments across multiple environments.  
-- Hands-on with **serverless computing (Hono)** and deployments on **Vercel & Netlify**.  
+--- 
 
----
+### 🛠️ Tools & Platforms 
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) 
+![Agile](https://img.shields.io/badge/Agile-FF5722?style=for-the-badge&logo=agile&logoColor=white) 
+
+--- 
+
+### 🔐 Security & Compliance 
+- JWT Authentication  
+- Role-Based Access Control (RBAC)  
+- Data Encryption  
+
+--- 
+
+## 💼 Experience 
+
+**Machine Learning Intern – DIPC Software (Jan 2025 – Apr 2025)**  
+- Built **real-time computer vision systems** using OpenCV & TensorFlow/Keras with 95%+ accuracy.  
+- Developed **LSTM-based sequence prediction models** and custom preprocessing pipelines.  
+- Practiced reproducible ML workflows with **Git, GitHub, Jupyter, and MLflow**.  
+
+**Full Stack Developer Intern – Brainy Beam Technologies (Oct 2024 – Dec 2024)**  
+- Developed responsive **React.js front-end** and robust **Node.js/Express.js back-end**.  
+- Built secure APIs with **JWT & RBAC** and deployed on **AWS (EC2, S3, RDS)** with Docker.  
+- Collaborated with UI/UX designers and QA teams in an agile environment.  
+
+--- 
+
+## 📌 Projects 
+
+**Facial Recognition-Based Smart Attendance System**  
+- Engineered an AI-driven computer vision system with 96%+ recognition accuracy.  
+- Automated attendance workflows, reducing manual errors by 80%.  
+
+--- 
+
+## 🌐 Connect With Me 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/smitprajapati1607/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/smit1607)  
+
+--- 
+
+## 📊 GitHub Stats 
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=smit1607&show_icons=true&theme=radical" width="48%" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smit1607&theme=radical" width="48%" /> 
+</p> 
+
+--- 
+
 ⭐ Thanks for visiting my profile!  
