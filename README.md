@@ -35,7 +35,7 @@
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 ### 🧠 Basic ML Tools (Exploring)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -49,19 +49,17 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-FF5722?style=for-the-badge&logo=agile&logoColor=white)
 
 ---
 
 ## 💼 Experience
 
-**Full Stack Developer Intern – DIPC Software (Feb 2025 – May 2025)**  
+**Full Stack Developer Intern – DIPC Software (Jan 2025 – May 2025)**  
 - Developed **responsive web interfaces**, integrated **scalable RESTful APIs**, and built **secure backend systems** using MERN.  
 - Worked in **agile sprints**, participated in **feature planning**, and improved code through **peer reviews**.  
 - Practiced **version control, CI/CD pipelines**, and collaborative development using **Git & GitHub Actions**.
 
-**Full Stack Intern – 360 Design (Oct 2024 – Nov 2024)**  
+**Full Stack Intern – Brainy Beam (Oct 2024 – Nov 2024)**  
 - Built a **real-time social media app** with tweet updates, authentication, and live feeds using **WebSockets & JWT**.  
 - Designed **responsive UI with React.js & Tailwind CSS** and managed global state using **Recoil**.  
 - Developed backend APIs for **tweets, likes, and follows** with **Express.js** and **MongoDB**.
