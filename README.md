@@ -149,24 +149,6 @@
 - Built and enhanced leave analytics dashboards with time-range filtering and improved chart visualizations for HR reporting and data analysis.
 
 ---
-
-## 🎓 Education
-
-### Bachelor of Engineering in Information Technology
-
-**SAL College of Engineering (GTU), India**
-
-🎓 **CGPA: 7.90**
-
----
-
-## 📜 Certifications
-
-- 🏆 **Technology Job Simulation — Deloitte** — May 2025
-- 🏆 **Advanced Software Engineering Job Simulation — Walmart Global Tech**
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
